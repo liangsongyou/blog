@@ -1,3 +1,4 @@
 Django==2.0.5
 pytz==2018.4
 django_taggit==0.22.2
+Markdown==2.6.11
